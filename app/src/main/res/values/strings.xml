@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quranScanning</string>
+
+    <string name="camera">camera</string>
+    <string name="I">1</string>
+    <string name="surah">Al Fatiha</string>
+    <string name="keteranganSurah">pembukaan</string>
+    <string name="arabic">Arabic</string>
+</resources>
